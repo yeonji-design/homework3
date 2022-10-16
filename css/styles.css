@@ -105,7 +105,7 @@ header{
   /* Your code here */
   /* Set background-image to header.jpg in the images folder */
   background-image: url("../images/header.jpg");
-  background-color: #DDDDDD, #858585, #707070, #B3B3B3;
+  background-color: #707070, #DDDDDD, #858585, #B3B3B3;
   min-height: 400px;
   /* Span one row */
   grid-row: 2 / 3;
@@ -144,6 +144,7 @@ img{
    grid-column: 1 / span 3;
    max-height: 500px;
    overflow: hidden;
+   background-color: #ffffff;
 }
 
 .about, .about-image{
