@@ -144,7 +144,6 @@ img{
    grid-column: 1 / span 3;
    max-height: 500px;
    overflow: hidden;
-   background-color: #ffffff;
 }
 
 .about, .about-image{
